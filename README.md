@@ -84,4 +84,5 @@ Understanding Netflix’s evolving catalog helps:
    - Bar charts, pie charts, heatmaps, and time-series plots  
 
 4. **Insights & Recommendations**
-   - Key findings for Netflix’s strategic planning  
+   - Key findings for Netflix’s strategic planning
+     
