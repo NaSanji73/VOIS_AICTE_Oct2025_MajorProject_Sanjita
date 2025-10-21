@@ -85,20 +85,3 @@ Understanding Netflix’s evolving catalog helps:
 
 4. **Insights & Recommendations**
    - Key findings for Netflix’s strategic planning  
-
----
-
-## 📦 Repository Structure
-Netflix-Dataset-Analysis/
-│
-├── data/
-│ └── netflix_titles.csv
-│
-├── notebooks/
-│ └── netflix_analysis.ipynb
-│
-├── images/
-│ └── visualizations.png
-│
-├── README.md
-└── requirements.txt
